@@ -1,0 +1,19 @@
+{
+    "name": "F E E N I X - ＭＤ - V 2  
+WhatsApp Bot",
+    "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
+    "repository": "https://github.com/Feenixmd0/MR_KASUN-OFC",
+    "logo": "https://telegra.ph/file/a48121b9928cfd98103e5.jpg",
+    "keywords": [
+        "nodejs",
+        "Bot",
+        "WhatsApp Bot",
+        "WhatsApp Automation",
+        "Multi Device"
+    ],
+    "env": {
+        "SESSION_ID": {
+            "description": "Type the Session-ID you got from scaning QR",
+            "required": true,
+            "value": "session id eka gahanna"
+        },
