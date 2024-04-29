@@ -1,18 +1,13 @@
-# MR_KASUN-OFC
-🇱🇰 Hello @user iam DARK_FEENIX Powerd-by( MR_KASUN 🇱🇰
-<div align="center">
-
-👨‍💻 *FEENIX-ＭＤ-v1*
+# MR_KASUN-OFC<div align="center">
 
 <p align = center>   <img src="https://telegra.ph/file/a48121b9928cfd98103e5.jpg" alt="GIF" width="600" height="300"/> </p>
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐇𝐈+𝐈𝐀𝐌+DARK╺+FEENIX+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+MR+KASUN+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+MR.༆KASUN;𝐌𝐑:+☬MR༒Duminda࿐;💕dark+feenix🙃;contact+772801923🧚)](https://git.io/typing-svg)
      
 👨‍💻 *FEENIX-ＭＤ-v1*
 
 (CREDS.JSON UPLOAD FOLDER) 👨‍💻
-<p align = center>   <img src="https://telegra.ph/file/a48121b9928cfd98103e5.jpg" alt="GIF" width="600" height="300"/> </p>
+<p align = center>   <img src="___" alt="GIF" width="600" height="300"/> </p>
 
 
   
@@ -89,7 +84,7 @@ Voice helper  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules
 
 <hr>
 
-## HOW TO DEPLOY 👨‍💻 K A S U N- ＭＤ - Ｖ4 👨‍💻
+## HOW TO DEPLOY 👨‍💻 F E E N I X- MD_Ｖ4 👨‍💻
 
 </div>
 
